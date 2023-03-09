@@ -1,0 +1,4 @@
+# dont wanna leak db info
+.env
+# just do npm i for gods sake....
+node_modules/
